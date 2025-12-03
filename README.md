@@ -1,5 +1,4 @@
 # Smart-Palletizer-Robot-Interface
-Project: Smart Palletizer with Robot Interface
 
 此專案包含兩個 Python 堆疊模擬程式，皆具備 3D 視覺化與物理支撐檢測功能。
 
